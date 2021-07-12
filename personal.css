@@ -1,0 +1,14 @@
+.perso{
+    font-size: larger;
+    
+    margin: 100px;
+    
+}
+ul{
+    list-style-type: none;
+}
+
+#photo{
+  background-color: #4b545c;
+  padding-bottom: 100px;
+}
